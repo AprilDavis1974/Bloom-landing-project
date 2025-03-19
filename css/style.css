@@ -1,0 +1,33 @@
+header {
+    background-color: #26292e;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    background-color: #26292e;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+main {
+    background-color: #e7718b;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+  
+  
